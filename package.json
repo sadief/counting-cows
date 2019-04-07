@@ -1,11 +1,11 @@
 {
-  "name": "server",
+  "name": "app",
   "version": "1.0.0",
   "description": "a crud server for a cow counting app",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "./node_modules/.bin/nodemon -L server.js"
+    "start": "./node_modules/.bin/nodemon -L app.js"
   },
   "author": "sadief",
   "license": "ISC",
